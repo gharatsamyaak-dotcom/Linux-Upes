@@ -77,3 +77,8 @@ chmod +x my_script.sh
 ```
 
 
+## Images-
+![image](lab2a.png)
+![image](lab2b.png)
+
+Backup drive link :- https://drive.google.com/drive/folders/1zrzF-ASEYp8ujX8Yu39Tyv9QmAe_e7_r?usp=drive_link

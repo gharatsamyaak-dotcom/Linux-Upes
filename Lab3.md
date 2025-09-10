@@ -1,4 +1,4 @@
-# Samyaak Gharat - Lab 3 (No Images)
+# Samyaak Gharat - Lab 3 
 
 ## ✅ Script: enhanced_numbers.sh
 
