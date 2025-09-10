@@ -25,7 +25,7 @@ for file in *.txt; do
     echo "Backed up: $file -> backup/${filename}_${timestamp}.txt"
   fi
 done
-```
+````
 
 
 ## 1. Make Script Executable
