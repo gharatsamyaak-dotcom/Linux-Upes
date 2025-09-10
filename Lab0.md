@@ -61,3 +61,4 @@ Dual booting allows you to install **Linux** alongside **Windows** on the same c
 1. Remove USB and reboot.
 2. You will see the follwing image-
 
+![image](installed.png)
