@@ -1,4 +1,4 @@
-# Samyaak Gharat - Lab 2 (Revised, No Images)
+# Samyaak Gharat - Lab 2 
 
 ## 2. Script: numbers_loop.sh
 
@@ -12,7 +12,7 @@
 for i in {1..5}
 do
   echo "Current number: $i"
-done
+done 
 ```
 
 ### Step-by-step explanation
