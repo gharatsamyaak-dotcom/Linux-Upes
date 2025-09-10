@@ -45,3 +45,6 @@ Commands for finding files and text.
 | ----- | ----- | ----- |
 | `find` | Search for files and directories. | `find /home -name "*.txt"` |
 | `grep` | Search for a pattern of text within files. | `grep "hello" file.txt` |
+
+![image](tet.png)
+
